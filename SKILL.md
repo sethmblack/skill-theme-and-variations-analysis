@@ -4,7 +4,7 @@ description: Take a core principle or idea and systematically explore how it man
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5163
+  version: 1.0.5164
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
